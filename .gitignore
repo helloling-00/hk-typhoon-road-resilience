@@ -43,3 +43,13 @@ Thumbs.db
 答辩PPT_*.pptx
 make_slide*.py
 make_all_slides.py
+
+# 分析中间输出（CSV、草稿图）
+*.csv
+dose_response_clean.png
+ecdf.jpg
+thesis_summary_figure.png
+recovery_*.png
+yagiasha_timeseries.png
+speed*.png
+"speed shape.png"

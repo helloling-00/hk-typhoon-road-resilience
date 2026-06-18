@@ -63,3 +63,7 @@ data/*.xlsx
 data/"*.xlsx"
 data/grid_*.parquet
 post_typhoon_pack
+
+# 其他杂散文件
+analysis_notes/
+道路坐标导出.csv

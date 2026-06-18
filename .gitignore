@@ -62,3 +62,4 @@ speed*.png
 data/*.xlsx
 data/"*.xlsx"
 data/grid_*.parquet
+post_typhoon_pack

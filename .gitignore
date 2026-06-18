@@ -53,3 +53,7 @@ recovery_*.png
 yagiasha_timeseries.png
 speed*.png
 "speed shape.png"
+
+# 探索性图表（本地保留，不纳入仓库）
+参考_*.png
+答辩PPT_*.png

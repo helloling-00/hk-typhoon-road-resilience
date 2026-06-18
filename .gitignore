@@ -57,3 +57,8 @@ speed*.png
 # 探索性图表（本地保留，不纳入仓库）
 参考_*.png
 答辩PPT_*.png
+
+# data 目录废弃文件
+data/*.xlsx
+data/"*.xlsx"
+data/grid_*.parquet

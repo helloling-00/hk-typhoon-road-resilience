@@ -38,3 +38,8 @@ __pycache__/
 # ── OS ──────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
+
+# 答辩 PPT 和辅助脚本（本地保留，不纳入仓库）
+答辩PPT_*.pptx
+make_slide*.py
+make_all_slides.py
